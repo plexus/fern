@@ -1,5 +1,9 @@
 # fern
 
+[![Build Status](https://secure.travis-ci.org/plexus/fern.png?branch=master)][travis]
+
+[travis]: https://travis-ci.org/plexus/fern
+
 A Clojure library designed for hypermedia.
 
 Maturity stage: initial sketching.
