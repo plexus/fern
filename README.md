@@ -1,10 +1,8 @@
 # fern
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed for hypermedia.
 
-## Usage
-
-FIXME
+Maturity stage: initial sketching.
 
 ## License
 
