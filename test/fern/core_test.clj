@@ -5,6 +5,9 @@
             [clojure.java.io :as io]
             [cheshire.core :refer :all]))
 
+(comment
+  (require '[speclj.run.standard]))
+
 (defn sample [n type]
   [type
    (parse-string
